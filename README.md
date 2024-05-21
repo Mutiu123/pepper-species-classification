@@ -2,7 +2,7 @@
 This project develops a pepper species classification using PyTorch and Convolutional Neural Networks
 
 ## Project Description
-This project involves the development of a **Pepper Species Classification System** using **PyTorch**, **Convolutional Neural Networks (CNNs)**. The goal is to create a model that can accurately classify different species of peppers based on images. This is a challenging task due to the wide variety of pepper species and the subtle differences in their physical characteristics.
+This project involves the development of a **Pepper Species Classification System** using **PyTorch** and **Convolutional Neural Networks (CNNs)**. The goal is to create a model that can accurately classify different species of peppers based on images. This is a challenging task due to the wide variety of pepper species and the subtle differences in their physical characteristics.
 
 ## Applications
 The applications of this project are vast and impactful. Here are a few key ones:
